@@ -4,7 +4,7 @@
 
 ## 📝 Project Summary
 
-A CRUD HTTP Server built using FS module for data storing and retrieval that mimics JSONPlaceholder's todos endpoint. Instead of DB, this project will store your data in todo.json, and has a logging system wherein it writes API requests to log.txt usng events module. Also has error handling feature which the API returns the appropriate status codes.
+A CRUD HTTP Server built using FS module for data storing and retrieval that mimics JSONPlaceholder's todos endpoint. Instead of DB, this project will store your data in todo.json, and has a logging system wherein it writes API requests to log.txt using events module. Also has error handling feature which the API returns the appropriate status codes.
 
 ---
 

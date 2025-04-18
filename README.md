@@ -8,16 +8,6 @@ A CRUD HTTP Server built using FS module for data storing and retrieval that mim
 
 ---
 
-## 🔥 Main Features of the Project
-
-1. Fetch all todos 
-2. Fetch specific todo by using ID
-3. Create new todos
-4. Update a todo by ID
-5. Delete todo by ID
-
----
-
 ## ⚙️ How to Install and Run my Project
 
 1. Clone my Repository (If you already have git in your local machine, if not install first or use CMD)
